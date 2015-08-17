@@ -1,0 +1,7 @@
+name             'chef-developer'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures chef-developer'
+long_description 'Installs/Configures chef-developer'
+version          '0.1.0'
